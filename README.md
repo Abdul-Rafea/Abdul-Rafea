@@ -7,7 +7,7 @@ I am a Full Stack Developer making modern web and mobile applications. The proje
 
 ---
 
-### 🛠️Tech Stack
+## 🛠️Tech Stack
 
 <img align="left" width="30px" src="https://cdn.simpleicons.org/react" />
 <img align="left" width="30px" src="https://cdn.simpleicons.org/tailwindcss" />
@@ -27,7 +27,7 @@ I am a Full Stack Developer making modern web and mobile applications. The proje
 
 ---
 
-### 🚀Featured Projects 
+## 🚀Featured Projects 
 <br clear="all" />
 
 #### Wasabi X - Social Weather App: -
