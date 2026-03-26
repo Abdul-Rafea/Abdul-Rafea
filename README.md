@@ -3,7 +3,7 @@
 **`⚙️Full Stack Dev (web + mobile)`**  
 **`📍Lahore, Pakistan`**
 
-I am a Full Stack Developer making modern web and mobile applications. The projects here are all build from scratch, from planning to designing to code to solving real-life problems. Currently I am doing my baachelors degree from COMSATS University Lahore.
+I am a Full Stack Developer making modern web and mobile applications. The projects here are all built from scratch, from planning to designing to code to solving real-life problems. Currently I am doing my baachelors degree from COMSATS University Lahore.
 
 ---
 
