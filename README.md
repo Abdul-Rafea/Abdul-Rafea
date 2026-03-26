@@ -1,14 +1,13 @@
 ## Abdul Rafea
 
-**`Full Stack Dev (web + mobile)`**  
-**`Lahore, Pakistan`**
+**`⚙️Full Stack Dev (web + mobile)`**  
+**`📍Lahore, Pakistan`**
 
-I am a Full Stack Developer making modern web and mobile applications. The projects here are all build from scratch, from planning to designing to code to solving real-life problems. Currently I am doing my baachelors degree from COMSATS University Lahore.  
-<b>Fun Fact</b> : If there is one thing that I can forever do, it will be code and I also like to play PC games.
+I am a Full Stack Developer making modern web and mobile applications. The projects here are all build from scratch, from planning to designing to code to solving real-life problems. Currently I am doing my baachelors degree from COMSATS University Lahore.
 
 ---
 
-### Tech Stack
+### 🛠️Tech Stack
 
 <img align="left" width="30px" src="https://cdn.simpleicons.org/react" />
 <img align="left" width="30px" src="https://cdn.simpleicons.org/tailwindcss" />
@@ -28,10 +27,12 @@ I am a Full Stack Developer making modern web and mobile applications. The proje
 
 ---
 
-### Featured Projects 
+### 🚀Featured Projects 
+<br clear="all" />
 
-#### 🌩️ Wasabi X - Social Weather App
-A PERN stack application featuring real-time weather data and social commenting.
+#### Wasabi X - Social Weather App: -
+**`A PERN stack application featuring real-time weather data and social commenting.`**
+- Currently in production
 - **Tech Stack:** React, Node.js, PostgreSQL, Tailwind CSS
-- [![Deploy with Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://wasabi-x.vercel.app)
-- [View Repository](https://github.com/your-username/wasabi-x)
+- [Check it out](https://weatherworks-eight.vercel.app/)
+- [View Repository](https://github.com/Abdul-Rafea/WasabiX)
