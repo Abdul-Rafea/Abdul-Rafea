@@ -1,4 +1,4 @@
-## Abdul Rafea
+# Abdul Rafea
 
 **`⚙️Full Stack Dev (web + mobile)`**  
 **`📍Lahore, Pakistan`**
