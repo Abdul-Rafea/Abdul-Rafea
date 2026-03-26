@@ -28,7 +28,6 @@ I am a Full Stack Developer making modern web and mobile applications. The proje
 ---
 
 ### 🚀Featured Projects 
-<br clear="all" />
 
 #### Wasabi X - Social Weather App: -
 **`A PERN stack application featuring real-time weather data and social commenting.`**
