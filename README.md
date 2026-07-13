@@ -8,7 +8,7 @@ A Software Engineeer with geat focus on Core Programming. Bachelors ongoing from
 ---
 
 ### Main Skills
-<img align="left" width="30px" src="https://cdn.simpleicons.org/cplusplus" />  
+<img align="left" width="30px" src="https://cdn.simpleicons.org/cplusplus" />\
 
 ### Complimentary Skills
 <img align="left" width="30px" src="https://cdn.simpleicons.org/react" />
