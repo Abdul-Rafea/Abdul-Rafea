@@ -1,6 +1,6 @@
 # Abdul Rafea
 
-**`⚙️Full Stack Dev (web + mobile)`**  
+**`Software Enginner`**  
 **`📍Lahore, Pakistan`**
 
 A Software Engineeer with geat focus on Core Programming. Bachelors ongoing from COMSATS University Lahore.
@@ -10,7 +10,7 @@ A Software Engineeer with geat focus on Core Programming. Bachelors ongoing from
 ### Main Skills
 <img align="left" width="30px" src="https://cdn.simpleicons.org/cplusplus" />
 
-
+--
 
 ### Complimentary Skills
 <img align="left" width="30px" src="https://cdn.simpleicons.org/react" />
@@ -24,4 +24,4 @@ A Software Engineeer with geat focus on Core Programming. Bachelors ongoing from
 <img align="left" width="30px" src="https://cdn.simpleicons.org/git" />  
 <br clear="all" />
 
----
+--
