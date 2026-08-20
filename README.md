@@ -3,7 +3,7 @@
 **`Software Enginner`**  
 **`📍Lahore, Pakistan`**
 
-A Software Engineeer with geat focus on Core Programming. Bachelors ongoing from COMSATS University Lahore.
+A Software Engineeer with geat focus on Core Programming and Game Development.
 
 ---
 
