@@ -3,10 +3,6 @@
 **`Software Enginner`**  
 **`📍Lahore, Pakistan`**
 
-A Software Engineeer.
-
----
-
 ### Main Skills
 <img align="left" width="30px" src="https://cdn.simpleicons.org/cplusplus" />
 <br>
