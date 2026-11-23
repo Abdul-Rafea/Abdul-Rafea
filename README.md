@@ -1,19 +1,15 @@
-# Abdul Rafea
+# Mirza Abdul Rafea
 
-**`Software Enginner`**  
-**`📍Lahore, Pakistan`**
+- Software Engineer
+- Lahore, Pakistan
 
-### Main Skills
-<img align="left" width="30px" src="https://cdn.simpleicons.org/cplusplus" />
-<br>
+Software Engineer driven by strong fundamental principles and problem-solving. Specializing in low-level systems and core programming. Comfortable bridging high-level system architecture and low-level mechanics.
 
-### Complimentary Skills
-<img align="left" width="30px" src="https://cdn.simpleicons.org/react" />
-<img align="left" width="30px" src="https://cdn.simpleicons.org/tailwindcss" />
-<img align="left" width="30px" src="https://cdn.simpleicons.org/html5" />
-<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" />
-<img align="left" width="30px" src="https://cdn.simpleicons.org/javascript" />
-<img align="left" width="30px" src="https://cdn.simpleicons.org/nodedotjs" />
-<img align="left" width="30px" src="https://cdn.simpleicons.org/git" />  
-<br clear="all" />
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,js,html,css)](https://skillicons.dev)
 
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
+
+### Extras
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
